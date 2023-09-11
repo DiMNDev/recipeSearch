@@ -1,0 +1,21 @@
+.recipeCard {
+  width: 45%;
+  border: 0.2rem solid black;
+  background-color: rgba(34, 139, 34, 0.3);
+  border-radius: 2rem;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  text-shadow: 0.1rem 0.1rem 0.2rem black;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  font-size: 1.6rem;
+}
+
+img {
+  border-radius: 2rem;
+}
